@@ -1,0 +1,36 @@
+#+Title: Trip to Nantes, October 1st–14th
+#+Author: Martin Gausby
+
+* Todo [50%]
+** TODO Find a place to stay
+** DONE Get plane tickets
+
+* Organisations and tech stuff
+** [[http://www.nantestech.com/en/][#nantestech]]
+
+* Event sources
+[[https://www.couchsurfing.com/events/search?utf8=%E2%9C%93&search_query=Nantes%252C+Pays+de+la+Loire%252C+France&latitude=47.218371&longitude=-1.553621&start_date=2015-10-01&end_date=2015-10-14][Couch Surfing events between October 1st and October 14th]]
+[[http://www.meetup.com/find/events/?allMeetups=true&radius=10&userFreeform=Nantes&gcResults=Nantes%252C+France%253AFR%253APays+de+la+Loire%253ALoire-Atlantique%253ANantes%253Anull%253Anull%253A47.218371%253A-1.553621000000021&month=10&day=1&year=2015&eventFilter=all][Meetup.com group events from October 1st onwards]]
+
+* Places
+** [[http://www.madambla.com/][Madam Blå]]
+Sounds like a good place for coffee. Also the owner speaks danish so I should be able to understand what she says.
+** [[http://www.lesmachines-nantes.fr/en/][Les Machines de l’île]]
+Holy giant wooden elephant, Batman!
+
+* Calendar
+** October 1
+** October 2
+** October 3
+** October 4
+** October 5
+** October 6
+** October 7
+** October 8
+** October 9
+** October 10
+** October 11
+** October 12
+** October 13
+** October 14
+** October 15

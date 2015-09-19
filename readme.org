@@ -7,7 +7,7 @@
 
 * Organisations and tech stuff
 ** [[http://www.nantestech.com/en/][#nantestech]]
-
+** [[http://www.pingbase.net/][PiNG Hackerspace]]
 * Event sources
 ** [[https://www.couchsurfing.com/events/search?utf8=%E2%9C%93&search_query=Nantes%252C+Pays+de+la+Loire%252C+France&latitude=47.218371&longitude=-1.553621&start_date=2015-10-01&end_date=2015-10-14][Couch Surfing events between October 1st and October 14th]]
 ** [[http://www.meetup.com/find/events/?allMeetups=true&radius=10&userFreeform=Nantes&gcResults=Nantes%252C+France%253AFR%253APays+de+la+Loire%253ALoire-Atlantique%253ANantes%253Anull%253Anull%253A47.218371%253A-1.553621000000021&month=10&day=1&year=2015&eventFilter=all][Meetup.com group events from October 1st onwards]]

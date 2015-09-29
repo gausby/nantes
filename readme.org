@@ -20,15 +20,19 @@ Holy giant wooden elephant, Batman!
 
 * Calendar
 ** October 1
+*** 19:00 - [[https://www.couchsurfing.com/events/drink-gathering][Drink & Gathering]]
 ** October 2
 ** October 3
 ** October 4
 *** 20:00 - [[https://www.couchsurfing.com/events/la-rumeur-du-dimanche-nantes-2015-10-04][La Rumeur du dimanche]]
 Location: La Rumeur, 2 B Rue Bon Secours, 44000 Nantes, France
 ** October 5
+*** 19:00 - [[http://www.meetup.com/Nantes-Machine-Learning-Meetup/events/224397257/][La régression linéaire et logistique]]
+Something, something machine learning.
 *** 19:30 - [[https://www.couchsurfing.com/events/b-bel-tower-nantes-2015-10-05][B@bel Tower]]
 Location: 6 Rue Bon Secours, Nantes
 ** October 6
+*** 19:00 - [[http://www.meetup.com/The-Expats-Club/events/225558552/][Expats at Lieu Unique]]
 ** October 7
 ** October 8
 ** October 9

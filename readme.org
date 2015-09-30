@@ -17,7 +17,9 @@ Holy giant wooden elephant, Batman!
 * Calendar
 ** October 1
 *** 19:00 - [[https://www.couchsurfing.com/events/drink-gathering][Drink & Gathering]]
-*** ? - [[https://twitter.com/firstJnantes][First Jeudi]]
+Location: [[https://www.google.com/maps/place/Rue+des+2+Ponts,+44000+Nantes,+France/@47.2167739,-1.5593443,17.72z/data=!4m2!3m1!1s0x4805eea710d5ff19:0x67663a14b34e18ed]["Ta mère", rue des 2 ponts, Nantes]]
+*** 20:00 - [[https://twitter.com/firstJnantes][First Jeudi]]
+Location: [[https://www.google.com/maps/place/Caf%C3%A9+la+Perle/@47.2131774,-1.556817,17.52z/data=!4m2!3m1!1s0x4805eea7d0cab117:0x985f1855c148c69b][Café la Perle; 8 Rue du Port au Vin; 44000 Nantes]]
 ** October 2
 ** October 3
 ** October 4

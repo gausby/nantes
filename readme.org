@@ -1,10 +1,6 @@
 #+Title: Trip to Nantes, October 1st–14th
 #+Author: Martin Gausby
 
-* Todo [50%]
-** TODO Find a place to stay
-** DONE Get plane tickets
-
 * Organisations and tech stuff
 ** [[http://www.nantestech.com/en/][#nantestech]]
 ** [[http://www.pingbase.net/][PiNG Hackerspace]]

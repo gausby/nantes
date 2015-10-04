@@ -41,6 +41,11 @@ Something, something machine learning.
 *** 19:30 - [[https://www.couchsurfing.com/events/b-bel-tower-nantes-2015-10-05][B@bel Tower]]
 Location: 6 Rue Bon Secours, Nantes
 ** October 6
+*** 18h30 - Free tour at Platform C
+A fablab in Nantes. It seems that tuesdays are their weekly tour day.
+
+Location: [[https://www.google.com/maps/place/Plateforme+C/@47.2042086,-1.570813,17z/data=!4m2!3m1!1s0x4805ec081fef4cd3:0xb95350dd7c2f47e%0A][Plateforme C, Hangar 30, quai des Antilles – 44200 NANTES]]
+
 *** 19:00 - [[http://www.meetup.com/The-Expats-Club/events/225558552/][Expats at Lieu Unique]]
 ** October 7
 ** October 8

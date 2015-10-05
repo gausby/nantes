@@ -18,6 +18,7 @@ Design’in, 34 rue Lanoue Bras de Fer – 44200 Nantes
 
 ** [[http://www.pulsomatic.com/][Pulsomatic.com]]
 A french site, but it list most of the concerts, movie screenings and expositions in Nantes.
+** [[http://geekevents.fr/calendar/][GeekEvents]]
 * Places
 ** [[http://www.madambla.com/][Madam Blå]]
 Sounds like a good place for coffee. Also the owner speaks danish so I should be able to understand what she says.

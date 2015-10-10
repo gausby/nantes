@@ -3,6 +3,15 @@
 
 * Organisations and tech stuff
 ** [[http://www.nantestech.com/en/][#nantestech]]
+** [[http://cantine.atlantic2.org][La Cantine par Atlantic 2.0]]
+Co-working area which cost 6 euros for half a day, and 12 euros for a full day. This is supposedly where all the tech people meet.
+
+Various events and meet ups can be found here as well.
+
+Location: [[https://maps.google.com/maps?ll=47.21203,-1.551639&z=15&t=m&hl=fr&gl=US&mapclient=embed&cid=2920279127309068674][11 impasse Juton, Nantes]]
+
+Open 9h00-19h00.
+
 ** [[http://www.pingbase.net/][PiNG Hackerspace]]
 They have three locations; I guess that the Fablab is the most interesting.
 *** [[http://www.plateforme-c.org][Fablab Plateforme C]]
